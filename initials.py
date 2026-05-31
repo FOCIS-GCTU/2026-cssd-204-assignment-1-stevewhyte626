@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Print out my initials.
-# Assignment Number: 2
+# Assignment Number: 1
 #
 # Name: Steven Whyte Dankyi
 # STUDENT ID: 2425400806
